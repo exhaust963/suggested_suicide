@@ -1,0 +1,864 @@
+Albania	 female	15-24 	0.000000
+Albania	 male	15-24 	0.000000
+Albania	 female	25-34 	0.000000
+Albania	 male	25-34 	0.000000
+Albania	 female	35-54 	0.000000
+Albania	 male	35-54 	0.000000
+Albania	 female	5-14 	0.000000
+Albania	 male	5-14 	0.000000
+Albania	 female	55-74 	0.000000
+Albania	 male	55-74 	0.000000
+Albania	 female	75+ 	0.000000
+Albania	 male	75+ 	0.000000
+Antigua and Barbuda	 female	15-24 	0.000000
+Antigua and Barbuda	 male	15-24 	0.000000
+Antigua and Barbuda	 female	25-34 	0.000000
+Antigua and Barbuda	 male	25-34 	0.000000
+Antigua and Barbuda	 female	35-54 	0.000000
+Antigua and Barbuda	 male	35-54 	0.000000
+Antigua and Barbuda	 female	5-14 	0.000000
+Antigua and Barbuda	 male	5-14 	0.000000
+Antigua and Barbuda	 female	55-74 	0.042084
+Antigua and Barbuda	 male	55-74 	0.000000
+Antigua and Barbuda	 female	75+ 	0.000000
+Antigua and Barbuda	 male	75+ 	0.000000
+Argentina	 female	15-24 	0.036370
+Argentina	 male	15-24 	0.140878
+Argentina	 female	25-34 	0.024539
+Argentina	 male	25-34 	0.107284
+Argentina	 female	35-54 	0.023576
+Argentina	 male	35-54 	0.087807
+Argentina	 female	5-14 	0.005627
+Argentina	 male	5-14 	0.006898
+Argentina	 female	55-74 	0.023117
+Argentina	 male	55-74 	0.098849
+Argentina	 female	75+ 	0.014382
+Argentina	 male	75+ 	0.205508
+Armenia	 female	15-24 	0.006722
+Armenia	 male	15-24 	0.007219
+Armenia	 female	25-34 	0.001966
+Armenia	 male	25-34 	0.023421
+Armenia	 female	35-54 	0.006615
+Armenia	 male	35-54 	0.026896
+Armenia	 female	5-14 	0.001378
+Armenia	 male	5-14 	0.001047
+Armenia	 female	55-74 	0.015744
+Armenia	 male	55-74 	0.041503
+Armenia	 female	75+ 	0.040608
+Armenia	 male	75+ 	0.112268
+Aruba	 female	15-24 	0.036964
+Aruba	 male	15-24 	0.071034
+Aruba	 female	25-34 	0.000000
+Aruba	 male	25-34 	0.139669
+Aruba	 female	35-54 	0.013617
+Aruba	 male	35-54 	0.068776
+Aruba	 female	5-14 	0.039500
+Aruba	 male	5-14 	0.000000
+Aruba	 female	55-74 	0.037760
+Aruba	 male	55-74 	0.049533
+Aruba	 female	75+ 	0.000000
+Aruba	 male	75+ 	0.000000
+Australia	 female	15-24 	0.047060
+Australia	 male	15-24 	0.120955
+Australia	 female	25-34 	0.046206
+Australia	 male	25-34 	0.158985
+Australia	 female	35-54 	0.062822
+Australia	 male	35-54 	0.195126
+Australia	 female	5-14 	0.004900
+Australia	 male	5-14 	0.004242
+Australia	 female	55-74 	0.045717
+Australia	 male	55-74 	0.139636
+Australia	 female	75+ 	0.039601
+Australia	 male	75+ 	0.183700
+Austria	 female	15-24 	0.026734
+Austria	 male	15-24 	0.088850
+Austria	 female	25-34 	0.031009
+Austria	 male	25-34 	0.103538
+Austria	 female	35-54 	0.048831
+Austria	 male	35-54 	0.175256
+Austria	 female	5-14 	0.002192
+Austria	 male	5-14 	0.002247
+Austria	 female	55-74 	0.077008
+Austria	 male	55-74 	0.227858
+Austria	 female	75+ 	0.112058
+Austria	 male	75+ 	0.554422
+Bahamas	 female	15-24 	0.000000
+Bahamas	 male	25-34 	0.014709
+Bahamas	 female	5-14 	0.000000
+Bahamas	 male	55-74 	0.016693
+Bahrain	 female	15-24 	0.002448
+Bahrain	 male	15-24 	0.010492
+Bahrain	 male	25-34 	0.004684
+Bahrain	 female	35-54 	0.002795
+Bahrain	 female	5-14 	0.000000
+Bahrain	 male	5-14 	0.000000
+Bahrain	 male	55-74 	0.000000
+Bahrain	 female	75+ 	0.000000
+Belarus	 female	15-24 	0.015274
+Belarus	 male	15-24 	0.100471
+Belarus	 female	25-34 	0.025323
+Belarus	 male	25-34 	0.173482
+Belarus	 female	35-54 	0.031096
+Belarus	 male	35-54 	0.197303
+Belarus	 female	5-14 	0.003566
+Belarus	 male	5-14 	0.003131
+Belarus	 female	55-74 	0.029570
+Belarus	 male	55-74 	0.196734
+Belarus	 female	75+ 	0.054705
+Belarus	 male	75+ 	0.320838
+Belgium	 female	15-24 	0.026804
+Belgium	 male	15-24 	0.094188
+Belgium	 female	25-34 	0.043911
+Belgium	 male	25-34 	0.158195
+Belgium	 female	35-54 	0.102424
+Belgium	 male	35-54 	0.243519
+Belgium	 female	5-14 	0.001530
+Belgium	 male	5-14 	0.003245
+Belgium	 female	55-74 	0.099155
+Belgium	 male	55-74 	0.214753
+Belgium	 female	75+ 	0.094380
+Belgium	 male	75+ 	0.333250
+Belize	 female	15-24 	0.025952
+Belize	 male	15-24 	0.050578
+Belize	 female	25-34 	0.008063
+Belize	 male	25-34 	0.173247
+Belize	 female	35-54 	0.020031
+Belize	 male	35-54 	0.100193
+Belize	 female	5-14 	0.012319
+Belize	 male	5-14 	0.020706
+Belize	 female	55-74 	0.019753
+Belize	 male	55-74 	0.144351
+Belize	 female	75+ 	0.000000
+Belize	 male	75+ 	0.119022
+Brazil	 female	15-24 	0.015687
+Brazil	 male	15-24 	0.054668
+Brazil	 female	25-34 	0.017865
+Brazil	 male	25-34 	0.078769
+Brazil	 female	35-54 	0.022589
+Brazil	 male	35-54 	0.083377
+Brazil	 female	5-14 	0.002549
+Brazil	 male	5-14 	0.003425
+Brazil	 female	55-74 	0.021110
+Brazil	 male	55-74 	0.088959
+Brazil	 female	75+ 	0.016854
+Brazil	 male	75+ 	0.124415
+Brunei Darussalam	 female	15-24 	0.000000
+Brunei Darussalam	 male	15-24 	0.006408
+Brunei Darussalam	 female	25-34 	0.026532
+Brunei Darussalam	 male	25-34 	0.035261
+Brunei Darussalam	 female	35-54 	0.004117
+Brunei Darussalam	 male	35-54 	0.012480
+Brunei Darussalam	 female	5-14 	0.000000
+Brunei Darussalam	 male	5-14 	0.000000
+Brunei Darussalam	 female	55-74 	0.000000
+Brunei Darussalam	 male	55-74 	0.000000
+Brunei Darussalam	 female	75+ 	0.069239
+Brunei Darussalam	 male	75+ 	0.000000
+Chile	 female	15-24 	0.031796
+Chile	 male	15-24 	0.114697
+Chile	 female	25-34 	0.031643
+Chile	 male	25-34 	0.150416
+Chile	 female	35-54 	0.038455
+Chile	 male	35-54 	0.153303
+Chile	 female	5-14 	0.005883
+Chile	 male	5-14 	0.006006
+Chile	 female	55-74 	0.029397
+Chile	 male	55-74 	0.157277
+Chile	 female	75+ 	0.022591
+Chile	 male	75+ 	0.253673
+Colombia	 female	15-24 	0.026219
+Colombia	 male	15-24 	0.078791
+Colombia	 female	25-34 	0.016380
+Colombia	 male	25-34 	0.068740
+Colombia	 female	35-54 	0.010151
+Colombia	 male	35-54 	0.058943
+Colombia	 female	5-14 	0.006501
+Colombia	 male	5-14 	0.006728
+Colombia	 female	55-74 	0.009455
+Colombia	 male	55-74 	0.072826
+Colombia	 female	75+ 	0.007002
+Colombia	 male	75+ 	0.114073
+Croatia	 female	15-24 	0.023647
+Croatia	 male	15-24 	0.104406
+Croatia	 female	25-34 	0.022823
+Croatia	 male	25-34 	0.114961
+Croatia	 female	35-54 	0.060179
+Croatia	 male	35-54 	0.204442
+Croatia	 female	5-14 	0.003839
+Croatia	 male	5-14 	0.002208
+Croatia	 female	55-74 	0.085347
+Croatia	 male	55-74 	0.288433
+Croatia	 female	75+ 	0.133118
+Croatia	 male	75+ 	0.526393
+Cuba	 female	15-24 	0.018444
+Cuba	 male	15-24 	0.051718
+Cuba	 female	25-34 	0.017127
+Cuba	 male	25-34 	0.085163
+Cuba	 female	35-54 	0.038068
+Cuba	 male	35-54 	0.157026
+Cuba	 female	5-14 	0.002079
+Cuba	 male	5-14 	0.006516
+Cuba	 female	55-74 	0.072198
+Cuba	 male	55-74 	0.259385
+Cuba	 female	75+ 	0.095053
+Cuba	 male	75+ 	0.543051
+Cyprus	 female	15-24 	0.016620
+Cyprus	 male	15-24 	0.056649
+Cyprus	 female	25-34 	0.020674
+Cyprus	 male	25-34 	0.078513
+Cyprus	 female	35-54 	0.015169
+Cyprus	 male	35-54 	0.073974
+Cyprus	 female	5-14 	0.000000
+Cyprus	 male	5-14 	0.000000
+Cyprus	 female	55-74 	0.025090
+Cyprus	 male	55-74 	0.073732
+Cyprus	 female	75+ 	0.000000
+Cyprus	 male	75+ 	0.039053
+Czech Republic	 female	15-24 	0.020063
+Czech Republic	 male	15-24 	0.100972
+Czech Republic	 female	25-34 	0.024687
+Czech Republic	 male	25-34 	0.148536
+Czech Republic	 female	35-54 	0.044582
+Czech Republic	 male	35-54 	0.200897
+Czech Republic	 female	5-14 	0.003924
+Czech Republic	 male	5-14 	0.003425
+Czech Republic	 female	55-74 	0.048339
+Czech Republic	 male	55-74 	0.223458
+Czech Republic	 female	75+ 	0.068542
+Czech Republic	 male	75+ 	0.364218
+Denmark	 female	15-24 	0.016139
+Denmark	 male	15-24 	0.045430
+Denmark	 female	25-34 	0.027321
+Denmark	 male	25-34 	0.074403
+Denmark	 female	35-54 	0.049902
+Denmark	 male	35-54 	0.153225
+Denmark	 female	5-14 	0.003851
+Denmark	 male	5-14 	0.001291
+Denmark	 female	55-74 	0.060522
+Denmark	 male	55-74 	0.158754
+Denmark	 female	75+ 	0.088986
+Denmark	 male	75+ 	0.245395
+Ecuador	 female	15-24 	0.045697
+Ecuador	 male	15-24 	0.089802
+Ecuador	 female	25-34 	0.022839
+Ecuador	 male	25-34 	0.079416
+Ecuador	 female	35-54 	0.013050
+Ecuador	 male	35-54 	0.062519
+Ecuador	 female	5-14 	0.010394
+Ecuador	 male	5-14 	0.014036
+Ecuador	 female	55-74 	0.013385
+Ecuador	 male	55-74 	0.070923
+Ecuador	 female	75+ 	0.009320
+Ecuador	 male	75+ 	0.114538
+Egypt	 female	15-24 	0.000639
+Egypt	 male	15-24 	0.001963
+Egypt	 female	25-34 	0.000366
+Egypt	 male	25-34 	0.001568
+Egypt	 female	35-54 	0.000227
+Egypt	 male	35-54 	0.001495
+Egypt	 female	5-14 	0.000101
+Egypt	 male	5-14 	0.000291
+Egypt	 female	55-74 	0.000206
+Egypt	 male	55-74 	0.001251
+Egypt	 female	75+ 	0.000425
+Egypt	 male	75+ 	0.001553
+Estonia	 female	15-24 	0.013009
+Estonia	 male	15-24 	0.180592
+Estonia	 female	25-34 	0.030742
+Estonia	 male	25-34 	0.207811
+Estonia	 female	35-54 	0.052093
+Estonia	 male	35-54 	0.208028
+Estonia	 female	5-14 	0.003974
+Estonia	 male	5-14 	0.013485
+Estonia	 female	55-74 	0.046594
+Estonia	 male	55-74 	0.283274
+Estonia	 female	75+ 	0.108288
+Estonia	 male	75+ 	0.487238
+Finland	 female	15-24 	0.046003
+Finland	 male	15-24 	0.133668
+Finland	 female	25-34 	0.068691
+Finland	 male	25-34 	0.217412
+Finland	 female	35-54 	0.063473
+Finland	 male	35-54 	0.197032
+Finland	 female	5-14 	0.001517
+Finland	 male	5-14 	0.005857
+Finland	 female	55-74 	0.060927
+Finland	 male	55-74 	0.188628
+Finland	 female	75+ 	0.039879
+Finland	 male	75+ 	0.228744
+Georgia	 female	15-24 	0.008344
+Georgia	 male	15-24 	0.037304
+Georgia	 female	25-34 	0.008011
+Georgia	 male	25-34 	0.041139
+Georgia	 female	35-54 	0.008505
+Georgia	 male	35-54 	0.065263
+Georgia	 female	5-14 	0.000914
+Georgia	 male	5-14 	0.002774
+Georgia	 female	55-74 	0.022604
+Georgia	 male	55-74 	0.093096
+Georgia	 female	75+ 	0.043392
+Georgia	 male	75+ 	0.185372
+Germany	 female	15-24 	0.020797
+Germany	 male	15-24 	0.061190
+Germany	 female	25-34 	0.026596
+Germany	 male	25-34 	0.100210
+Germany	 female	35-54 	0.048529
+Germany	 male	35-54 	0.140608
+Germany	 female	5-14 	0.002225
+Germany	 male	5-14 	0.002040
+Germany	 female	55-74 	0.062250
+Germany	 male	55-74 	0.178398
+Germany	 female	75+ 	0.086600
+Germany	 male	75+ 	0.347467
+Greece	 female	15-24 	0.005923
+Greece	 male	15-24 	0.029802
+Greece	 female	25-34 	0.016399
+Greece	 male	25-34 	0.047746
+Greece	 female	35-54 	0.016649
+Greece	 male	35-54 	0.069913
+Greece	 female	5-14 	0.000387
+Greece	 male	5-14 	0.000429
+Greece	 female	55-74 	0.019816
+Greece	 male	55-74 	0.086701
+Greece	 female	75+ 	0.015725
+Greece	 male	75+ 	0.094642
+Grenada	 female	15-24 	0.000000
+Grenada	 male	15-24 	0.000000
+Grenada	 female	25-34 	0.000000
+Grenada	 male	25-34 	0.000000
+Grenada	 female	35-54 	0.000000
+Grenada	 male	35-54 	0.000000
+Grenada	 female	5-14 	0.000000
+Grenada	 male	5-14 	0.000000
+Grenada	 female	55-74 	0.000000
+Grenada	 male	55-74 	0.000000
+Grenada	 female	75+ 	0.000000
+Grenada	 male	75+ 	0.000000
+Guatemala	 female	15-24 	0.034059
+Guatemala	 male	15-24 	0.050234
+Guatemala	 female	25-34 	0.014028
+Guatemala	 male	25-34 	0.048463
+Guatemala	 female	35-54 	0.008127
+Guatemala	 male	35-54 	0.051484
+Guatemala	 female	5-14 	0.004513
+Guatemala	 male	5-14 	0.003021
+Guatemala	 female	55-74 	0.006482
+Guatemala	 male	55-74 	0.046187
+Guatemala	 female	75+ 	0.004816
+Guatemala	 male	75+ 	0.040322
+Hong Kong SAR	 female	15-24 	0.037817
+Hong Kong SAR	 male	15-24 	0.076448
+Hong Kong SAR	 female	25-34 	0.056525
+Hong Kong SAR	 male	25-34 	0.121201
+Hong Kong SAR	 female	35-54 	0.068001
+Hong Kong SAR	 male	35-54 	0.139313
+Hong Kong SAR	 female	5-14 	0.006200
+Hong Kong SAR	 male	5-14 	0.005083
+Hong Kong SAR	 female	55-74 	0.084824
+Hong Kong SAR	 male	55-74 	0.159806
+Hong Kong SAR	 female	75+ 	0.157753
+Hong Kong SAR	 male	75+ 	0.300446
+Hungary	 female	15-24 	0.014904
+Hungary	 male	15-24 	0.080471
+Hungary	 female	25-34 	0.030391
+Hungary	 male	25-34 	0.134503
+Hungary	 female	35-54 	0.072275
+Hungary	 male	35-54 	0.259149
+Hungary	 female	5-14 	0.001000
+Hungary	 male	5-14 	0.002025
+Hungary	 female	55-74 	0.098131
+Hungary	 male	55-74 	0.374764
+Hungary	 female	75+ 	0.144723
+Hungary	 male	75+ 	0.597746
+Iceland	 female	15-24 	0.020543
+Iceland	 male	15-24 	0.159146
+Iceland	 female	25-34 	0.059664
+Iceland	 male	25-34 	0.217518
+Iceland	 female	35-54 	0.058564
+Iceland	 male	35-54 	0.164639
+Iceland	 female	5-14 	0.000000
+Iceland	 male	5-14 	0.000000
+Iceland	 female	55-74 	0.086162
+Iceland	 male	55-74 	0.143376
+Iceland	 female	75+ 	0.125245
+Iceland	 male	75+ 	0.260225
+Iran (Islamic Rep of)	 female	15-24 	0.033810
+Iran (Islamic Rep of)	 male	15-24 	0.050729
+Iran (Islamic Rep of)	 female	25-34 	0.015760
+Iran (Islamic Rep of)	 male	25-34 	0.042476
+Iran (Islamic Rep of)	 female	35-54 	0.011525
+Iran (Islamic Rep of)	 male	35-54 	0.032404
+Iran (Islamic Rep of)	 female	5-14 	0.004682
+Iran (Islamic Rep of)	 male	5-14 	0.003958
+Iran (Islamic Rep of)	 female	55-74 	0.008571
+Iran (Islamic Rep of)	 male	55-74 	0.024690
+Iran (Islamic Rep of)	 female	75+ 	0.013245
+Iran (Islamic Rep of)	 male	75+ 	0.030258
+Israel	 female	15-24 	0.009078
+Israel	 male	15-24 	0.037429
+Israel	 female	25-34 	0.016672
+Israel	 male	25-34 	0.053974
+Israel	 female	35-54 	0.018435
+Israel	 male	35-54 	0.080924
+Israel	 female	5-14 	0.000697
+Israel	 male	5-14 	0.004818
+Israel	 female	55-74 	0.023109
+Israel	 male	55-74 	0.077205
+Israel	 female	75+ 	0.037186
+Israel	 male	75+ 	0.136765
+Italy	 female	15-24 	0.010375
+Italy	 male	15-24 	0.037046
+Italy	 female	25-34 	0.014078
+Italy	 male	25-34 	0.061241
+Italy	 female	35-54 	0.025709
+Italy	 male	35-54 	0.085121
+Italy	 female	5-14 	0.001472
+Italy	 male	5-14 	0.001528
+Italy	 female	55-74 	0.029042
+Italy	 male	55-74 	0.101968
+Italy	 female	75+ 	0.028752
+Italy	 male	75+ 	0.181049
+Japan	 female	15-24 	0.052857
+Japan	 male	15-24 	0.134893
+Japan	 female	25-34 	0.081386
+Japan	 male	25-34 	0.209767
+Japan	 female	35-54 	0.088933
+Japan	 male	35-54 	0.236585
+Japan	 female	5-14 	0.004209
+Japan	 male	5-14 	0.007953
+Japan	 female	55-74 	0.100714
+Japan	 male	55-74 	0.240686
+Japan	 female	75+ 	0.115356
+Japan	 male	75+ 	0.265928
+Kazakhstan	 female	15-24 	0.076068
+Kazakhstan	 male	15-24 	0.188118
+Kazakhstan	 female	25-34 	0.058055
+Kazakhstan	 male	25-34 	0.320852
+Kazakhstan	 female	35-54 	0.055006
+Kazakhstan	 male	35-54 	0.352747
+Kazakhstan	 female	5-14 	0.010199
+Kazakhstan	 male	5-14 	0.018588
+Kazakhstan	 female	55-74 	0.040989
+Kazakhstan	 male	55-74 	0.282424
+Kazakhstan	 female	75+ 	0.098727
+Kazakhstan	 male	75+ 	0.348288
+Kyrgyzstan	 female	15-24 	0.043426
+Kyrgyzstan	 male	15-24 	0.082917
+Kyrgyzstan	 female	25-34 	0.025074
+Kyrgyzstan	 male	25-34 	0.115798
+Kyrgyzstan	 female	35-54 	0.025964
+Kyrgyzstan	 male	35-54 	0.152681
+Kyrgyzstan	 female	5-14 	0.011303
+Kyrgyzstan	 male	5-14 	0.023261
+Kyrgyzstan	 female	55-74 	0.021356
+Kyrgyzstan	 male	55-74 	0.116657
+Kyrgyzstan	 female	75+ 	0.040108
+Kyrgyzstan	 male	75+ 	0.093220
+Latvia	 female	15-24 	0.024951
+Latvia	 male	15-24 	0.154557
+Latvia	 female	25-34 	0.029995
+Latvia	 male	25-34 	0.238857
+Latvia	 female	35-54 	0.049593
+Latvia	 male	35-54 	0.304662
+Latvia	 female	5-14 	0.000000
+Latvia	 male	5-14 	0.004721
+Latvia	 female	55-74 	0.063526
+Latvia	 male	55-74 	0.347849
+Latvia	 female	75+ 	0.095756
+Latvia	 male	75+ 	0.441823
+Lithuania	 female	15-24 	0.048149
+Lithuania	 male	15-24 	0.294960
+Lithuania	 female	25-34 	0.063755
+Lithuania	 male	25-34 	0.390416
+Lithuania	 female	35-54 	0.087456
+Lithuania	 male	35-54 	0.566451
+Lithuania	 female	5-14 	0.015726
+Lithuania	 male	5-14 	0.009975
+Lithuania	 female	55-74 	0.089150
+Lithuania	 male	55-74 	0.561386
+Lithuania	 female	75+ 	0.153050
+Lithuania	 male	75+ 	0.607300
+Luxembourg	 female	15-24 	0.022651
+Luxembourg	 male	15-24 	0.056842
+Luxembourg	 female	25-34 	0.021777
+Luxembourg	 male	25-34 	0.064993
+Luxembourg	 female	35-54 	0.037091
+Luxembourg	 male	35-54 	0.127864
+Luxembourg	 female	5-14 	0.008874
+Luxembourg	 male	5-14 	0.007445
+Luxembourg	 female	55-74 	0.099572
+Luxembourg	 male	55-74 	0.196934
+Luxembourg	 female	75+ 	0.072834
+Luxembourg	 male	75+ 	0.180054
+Malta	 female	15-24 	0.019561
+Malta	 male	15-24 	0.050252
+Malta	 female	25-34 	0.023499
+Malta	 male	25-34 	0.092133
+Malta	 female	35-54 	0.018974
+Malta	 male	35-54 	0.135209
+Malta	 female	5-14 	0.012006
+Malta	 male	5-14 	0.009748
+Malta	 female	55-74 	0.014141
+Malta	 male	55-74 	0.079510
+Malta	 female	75+ 	0.000000
+Malta	 male	75+ 	0.112975
+Mauritius	 female	15-24 	0.044769
+Mauritius	 male	15-24 	0.133743
+Mauritius	 female	25-34 	0.052059
+Mauritius	 male	25-34 	0.153893
+Mauritius	 female	35-54 	0.020411
+Mauritius	 male	35-54 	0.146920
+Mauritius	 female	5-14 	0.012869
+Mauritius	 male	5-14 	0.000000
+Mauritius	 female	55-74 	0.015357
+Mauritius	 male	55-74 	0.063013
+Mauritius	 female	75+ 	0.018830
+Mauritius	 male	75+ 	0.078237
+Mexico	 female	15-24 	0.027301
+Mexico	 male	15-24 	0.079709
+Mexico	 female	25-34 	0.017900
+Mexico	 male	25-34 	0.081380
+Mexico	 female	35-54 	0.013695
+Mexico	 male	35-54 	0.073283
+Mexico	 female	5-14 	0.005724
+Mexico	 male	5-14 	0.007441
+Mexico	 female	55-74 	0.009508
+Mexico	 male	55-74 	0.066637
+Mexico	 female	75+ 	0.004349
+Mexico	 male	75+ 	0.085707
+Netherlands	 female	15-24 	0.029466
+Netherlands	 male	15-24 	0.059020
+Netherlands	 female	25-34 	0.038764
+Netherlands	 male	25-34 	0.091751
+Netherlands	 female	35-54 	0.064340
+Netherlands	 male	35-54 	0.158760
+Netherlands	 female	5-14 	0.002597
+Netherlands	 male	5-14 	0.001318
+Netherlands	 female	55-74 	0.073477
+Netherlands	 male	55-74 	0.150010
+Netherlands	 female	75+ 	0.054684
+Netherlands	 male	75+ 	0.159138
+Nicaragua	 female	15-24 	0.044572
+Nicaragua	 male	15-24 	0.082927
+Nicaragua	 female	25-34 	0.020347
+Nicaragua	 male	25-34 	0.098226
+Nicaragua	 female	35-54 	0.011159
+Nicaragua	 male	35-54 	0.080869
+Nicaragua	 female	5-14 	0.011350
+Nicaragua	 male	5-14 	0.003589
+Nicaragua	 female	55-74 	0.009907
+Nicaragua	 male	55-74 	0.077059
+Nicaragua	 female	75+ 	0.006463
+Nicaragua	 male	75+ 	0.074549
+Norway	 female	15-24 	0.038951
+Norway	 male	15-24 	0.085695
+Norway	 female	25-34 	0.052989
+Norway	 male	25-34 	0.127970
+Norway	 female	35-54 	0.063394
+Norway	 male	35-54 	0.141547
+Norway	 female	5-14 	0.002540
+Norway	 male	5-14 	0.003811
+Norway	 female	55-74 	0.073447
+Norway	 male	55-74 	0.143538
+Norway	 female	75+ 	0.033689
+Norway	 male	75+ 	0.158126
+Panama	 female	15-24 	0.012720
+Panama	 male	15-24 	0.053548
+Panama	 female	25-34 	0.006757
+Panama	 male	25-34 	0.057975
+Panama	 female	35-54 	0.008180
+Panama	 male	35-54 	0.050611
+Panama	 female	5-14 	0.001257
+Panama	 male	5-14 	0.005659
+Panama	 female	55-74 	0.006135
+Panama	 male	55-74 	0.050320
+Panama	 female	75+ 	0.006949
+Panama	 male	75+ 	0.093090
+Poland	 female	15-24 	0.020445
+Poland	 male	15-24 	0.146164
+Poland	 female	25-34 	0.017797
+Poland	 male	25-34 	0.179011
+Poland	 female	35-54 	0.036563
+Poland	 male	35-54 	0.254367
+Poland	 female	5-14 	0.002316
+Poland	 male	5-14 	0.004459
+Poland	 female	55-74 	0.044426
+Poland	 male	55-74 	0.289277
+Poland	 female	75+ 	0.032413
+Poland	 male	75+ 	0.224173
+Puerto Rico	 female	15-24 	0.005153
+Puerto Rico	 male	15-24 	0.038658
+Puerto Rico	 female	25-34 	0.013976
+Puerto Rico	 male	25-34 	0.061324
+Puerto Rico	 female	35-54 	0.017695
+Puerto Rico	 male	35-54 	0.104938
+Puerto Rico	 female	5-14 	0.000846
+Puerto Rico	 male	5-14 	0.003691
+Puerto Rico	 female	55-74 	0.018066
+Puerto Rico	 male	55-74 	0.155202
+Puerto Rico	 female	75+ 	0.003575
+Puerto Rico	 male	75+ 	0.173239
+Qatar	 female	15-24 	0.009090
+Qatar	 male	15-24 	0.028212
+Qatar	 female	25-34 	0.006267
+Qatar	 male	25-34 	0.018909
+Qatar	 female	35-54 	0.007942
+Qatar	 male	35-54 	0.022472
+Qatar	 female	5-14 	0.000000
+Qatar	 male	5-14 	0.000000
+Qatar	 female	55-74 	0.010509
+Qatar	 male	55-74 	0.008958
+Qatar	 female	75+ 	0.000000
+Qatar	 male	75+ 	0.000000
+Republic of Korea	 female	15-24 	0.058289
+Republic of Korea	 male	15-24 	0.088213
+Republic of Korea	 female	25-34 	0.129862
+Republic of Korea	 male	25-34 	0.208735
+Republic of Korea	 female	35-54 	0.124183
+Republic of Korea	 male	35-54 	0.323355
+Republic of Korea	 female	5-14 	0.003975
+Republic of Korea	 male	5-14 	0.005374
+Republic of Korea	 female	55-74 	0.134116
+Republic of Korea	 male	55-74 	0.448940
+Republic of Korea	 female	75+ 	0.330115
+Republic of Korea	 male	75+ 	0.972441
+Republic of Moldova	 female	15-24 	0.024338
+Republic of Moldova	 male	15-24 	0.088622
+Republic of Moldova	 female	25-34 	0.022890
+Republic of Moldova	 male	25-34 	0.146200
+Republic of Moldova	 female	35-54 	0.047013
+Republic of Moldova	 male	35-54 	0.323088
+Republic of Moldova	 female	5-14 	0.008885
+Republic of Moldova	 male	5-14 	0.005055
+Republic of Moldova	 female	55-74 	0.049384
+Republic of Moldova	 male	55-74 	0.357176
+Republic of Moldova	 female	75+ 	0.047142
+Republic of Moldova	 male	75+ 	0.232562
+Rodrigues	 female	15-24 	0.074831
+Rodrigues	 male	15-24 	0.069862
+Rodrigues	 female	25-34 	0.061641
+Rodrigues	 male	25-34 	0.092378
+Rodrigues	 female	35-54 	0.000000
+Rodrigues	 male	35-54 	0.134549
+Rodrigues	 female	5-14 	0.057876
+Rodrigues	 male	5-14 	0.000000
+Rodrigues	 female	55-74 	0.089444
+Rodrigues	 male	55-74 	0.090127
+Rodrigues	 female	75+ 	0.000000
+Rodrigues	 male	75+ 	0.000000
+Romania	 female	15-24 	0.010821
+Romania	 male	15-24 	0.077577
+Romania	 female	25-34 	0.012469
+Romania	 male	25-34 	0.109523
+Romania	 female	35-54 	0.026168
+Romania	 male	35-54 	0.182520
+Romania	 female	5-14 	0.002902
+Romania	 male	5-14 	0.006577
+Romania	 female	55-74 	0.038353
+Romania	 male	55-74 	0.222887
+Romania	 female	75+ 	0.043258
+Romania	 male	75+ 	0.216024
+Russian Federation	 female	15-24 	0.038314
+Russian Federation	 male	15-24 	0.189285
+Russian Federation	 female	25-34 	0.043872
+Russian Federation	 male	25-34 	0.309754
+Russian Federation	 female	35-54 	0.045636
+Russian Federation	 male	35-54 	0.298572
+Russian Federation	 female	5-14 	0.005115
+Russian Federation	 male	5-14 	0.008882
+Russian Federation	 female	55-74 	0.043909
+Russian Federation	 male	55-74 	0.265045
+Russian Federation	 female	75+ 	0.106680
+Russian Federation	 male	75+ 	0.451122
+Saint Vincent and Grenadines	 female	15-24 	0.000000
+Saint Vincent and Grenadines	 male	15-24 	0.027544
+Saint Vincent and Grenadines	 female	25-34 	0.000000
+Saint Vincent and Grenadines	 male	25-34 	0.026782
+Saint Vincent and Grenadines	 female	35-54 	0.000000
+Saint Vincent and Grenadines	 male	35-54 	0.018433
+Saint Vincent and Grenadines	 female	5-14 	0.029706
+Saint Vincent and Grenadines	 male	5-14 	0.000000
+Saint Vincent and Grenadines	 female	55-74 	0.000000
+Saint Vincent and Grenadines	 male	55-74 	0.000000
+Saint Vincent and Grenadines	 female	75+ 	0.000000
+Saint Vincent and Grenadines	 male	75+ 	0.163981
+San Marino	 female	15-24 	0.000000
+San Marino	 male	15-24 	0.000000
+San Marino	 female	25-34 	0.000000
+San Marino	 male	25-34 	0.000000
+San Marino	 female	35-54 	0.000000
+San Marino	 male	35-54 	0.000000
+San Marino	 female	5-14 	0.000000
+San Marino	 male	5-14 	0.000000
+San Marino	 female	55-74 	0.000000
+San Marino	 male	55-74 	0.000000
+San Marino	 female	75+ 	0.000000
+San Marino	 male	75+ 	0.000000
+Serbia	 female	15-24 	0.008448
+Serbia	 male	15-24 	0.050666
+Serbia	 female	25-34 	0.033108
+Serbia	 male	25-34 	0.104614
+Serbia	 female	35-54 	0.049934
+Serbia	 male	35-54 	0.171463
+Serbia	 female	5-14 	0.000801
+Serbia	 male	5-14 	0.002078
+Serbia	 female	55-74 	0.078264
+Serbia	 male	55-74 	0.266243
+Serbia	 female	75+ 	0.153549
+Serbia	 male	75+ 	0.589339
+Seychelles	 female	15-24 	0.045235
+Seychelles	 male	15-24 	0.108904
+Seychelles	 female	25-34 	0.032149
+Seychelles	 male	25-34 	0.118283
+Seychelles	 female	35-54 	0.016363
+Seychelles	 male	35-54 	0.088538
+Seychelles	 female	5-14 	0.000000
+Seychelles	 male	5-14 	0.000000
+Seychelles	 female	55-74 	0.000000
+Seychelles	 male	55-74 	0.178250
+Seychelles	 female	75+ 	0.000000
+Seychelles	 male	75+ 	0.000000
+Singapore	 female	15-24 	0.032699
+Singapore	 male	15-24 	0.061110
+Singapore	 female	25-34 	0.033166
+Singapore	 male	25-34 	0.078479
+Singapore	 female	35-54 	0.045467
+Singapore	 male	35-54 	0.088654
+Singapore	 female	5-14 	0.002440
+Singapore	 male	5-14 	0.003613
+Singapore	 female	55-74 	0.053970
+Singapore	 male	55-74 	0.153849
+Singapore	 female	75+ 	0.089186
+Singapore	 male	75+ 	0.242554
+Slovenia	 female	15-24 	0.019330
+Slovenia	 male	15-24 	0.115110
+Slovenia	 female	25-34 	0.026957
+Slovenia	 male	25-34 	0.153855
+Slovenia	 female	35-54 	0.050061
+Slovenia	 male	35-54 	0.254914
+Slovenia	 female	5-14 	0.000000
+Slovenia	 male	5-14 	0.007138
+Slovenia	 female	55-74 	0.093985
+Slovenia	 male	55-74 	0.350524
+Slovenia	 female	75+ 	0.113355
+Slovenia	 male	75+ 	0.669878
+South Africa	 female	15-24 	0.005382
+South Africa	 male	15-24 	0.015065
+South Africa	 female	25-34 	0.004493
+South Africa	 male	25-34 	0.021033
+South Africa	 female	35-54 	0.002918
+South Africa	 male	35-54 	0.014067
+South Africa	 female	5-14 	0.000758
+South Africa	 male	5-14 	0.001006
+South Africa	 female	55-74 	0.002743
+South Africa	 male	55-74 	0.012507
+South Africa	 female	75+ 	0.003067
+South Africa	 male	75+ 	0.017842
+Spain	 female	15-24 	0.015302
+Spain	 male	15-24 	0.038216
+Spain	 female	25-34 	0.017965
+Spain	 male	25-34 	0.059589
+Spain	 female	35-54 	0.035589
+Spain	 male	35-54 	0.104781
+Spain	 female	5-14 	0.001547
+Spain	 male	5-14 	0.016855
+Spain	 female	55-74 	0.073328
+Spain	 male	55-74 	0.087619
+Spain	 female	75+ 	0.112485
+Spain	 male	75+ 	0.172607
+Sweden	 female	15-24 	0.070214
+Sweden	 male	15-24 	0.075825
+Sweden	 female	25-34 	0.080665
+Sweden	 male	25-34 	0.101461
+Sweden	 female	35-54 	0.096658
+Sweden	 male	35-54 	0.090689
+Sweden	 female	5-14 	0.005279
+Sweden	 male	5-14 	0.028401
+Sweden	 female	55-74 	0.107762
+Sweden	 male	55-74 	0.125891
+Sweden	 female	75+ 	0.126239
+Sweden	 male	75+ 	0.160215
+Switzerland	 female	15-24 	0.045468
+Switzerland	 male	15-24 	0.060627
+Switzerland	 female	25-34 	0.058314
+Switzerland	 male	25-34 	0.078497
+Switzerland	 female	35-54 	0.092827
+Switzerland	 male	35-54 	0.086368
+Switzerland	 female	5-14 	0.003571
+Switzerland	 male	5-14 	0.035257
+Switzerland	 female	55-74 	0.121043
+Switzerland	 male	55-74 	0.152713
+Switzerland	 female	75+ 	0.200013
+Switzerland	 male	75+ 	0.236652
+Thailand	 female	15-24 	0.022904
+Thailand	 male	15-24 	0.036133
+Thailand	 female	25-34 	0.047315
+Thailand	 male	25-34 	0.069674
+Thailand	 female	35-54 	0.050710
+Thailand	 male	35-54 	0.060643
+Thailand	 female	5-14 	0.002657
+Thailand	 male	5-14 	0.010866
+Thailand	 female	55-74 	0.053241
+Thailand	 male	55-74 	0.073485
+Thailand	 female	75+ 	0.063301
+Thailand	 male	75+ 	0.071900
+Turkey	 female	15-24 	0.019204
+Turkey	 male	15-24 	0.019235
+Turkey	 female	25-34 	0.016619
+Turkey	 male	25-34 	0.019662
+Turkey	 female	35-54 	0.017572
+Turkey	 male	35-54 	0.017493
+Turkey	 female	5-14 	0.001998
+Turkey	 male	5-14 	0.005212
+Turkey	 female	55-74 	0.018685
+Turkey	 male	55-74 	0.025460
+Turkey	 female	75+ 	0.029624
+Turkey	 male	75+ 	0.036816
+Turkmenistan	 female	15-24 	0.028389
+Turkmenistan	 male	15-24 	0.026589
+Turkmenistan	 female	25-34 	0.023683
+Turkmenistan	 male	25-34 	0.018500
+Turkmenistan	 female	35-54 	0.015722
+Turkmenistan	 male	35-54 	0.027467
+Turkmenistan	 female	5-14 	0.000000
+Turkmenistan	 male	5-14 	0.002738
+Turkmenistan	 female	55-74 	0.010110
+Turkmenistan	 male	55-74 	0.013945
+Turkmenistan	 female	75+ 	0.011764
+Turkmenistan	 male	75+ 	0.005433
+United Kingdom	 female	15-24 	0.032757
+United Kingdom	 male	15-24 	0.045082
+United Kingdom	 female	25-34 	0.053395
+United Kingdom	 male	25-34 	0.073614
+United Kingdom	 female	35-54 	0.077419
+United Kingdom	 male	35-54 	0.082796
+United Kingdom	 female	5-14 	0.001085
+United Kingdom	 male	5-14 	0.009763
+United Kingdom	 female	55-74 	0.055561
+United Kingdom	 male	55-74 	0.066510
+United Kingdom	 female	75+ 	0.046981
+United Kingdom	 male	75+ 	0.065541
+United States of America	 female	15-24 	0.067871
+United States of America	 male	15-24 	0.098571
+United States of America	 female	25-34 	0.092465
+United States of America	 male	25-34 	0.131602
+United States of America	 female	35-54 	0.115531
+United States of America	 male	35-54 	0.123342
+United States of America	 female	5-14 	0.006538
+United States of America	 male	5-14 	0.025615
+United States of America	 female	55-74 	0.110027
+United States of America	 male	55-74 	0.134463
+United States of America	 female	75+ 	0.122229
+United States of America	 male	75+ 	0.186218
+Uruguay	 female	15-24 	0.104230
+Uruguay	 male	15-24 	0.145492
+Uruguay	 female	25-34 	0.129431
+Uruguay	 male	25-34 	0.189714
+Uruguay	 female	35-54 	0.117260
+Uruguay	 male	35-54 	0.152905
+Uruguay	 female	5-14 	0.005119
+Uruguay	 male	5-14 	0.024774
+Uruguay	 female	55-74 	0.137293
+Uruguay	 male	55-74 	0.223070
+Uruguay	 female	75+ 	0.253648
+Uruguay	 male	75+ 	0.000000
